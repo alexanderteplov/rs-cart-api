@@ -1,0 +1,14 @@
+# ignore dependencies folder
+node_modules
+
+# ignore tests folder
+test
+
+# ignore git folder, .gitignore, linters and formatters configs, aws, etc.
+.*
+
+# ignore readme files
+README*.md
+
+# ignore dockerfiles
+*Dockerfile*
